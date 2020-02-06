@@ -1,4 +1,4 @@
-![TMC2300](https://i.imgur.com/CPBuk8F.jpg)
+![TMC2300](https://i.imgur.com/zaqdJV1.png)
 
 # TMC2300
 lib and example usage of TMC2300 driver
